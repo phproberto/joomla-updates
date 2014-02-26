@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><updates>
+	<update>
+		<name>Mootools enabler/Disabler</name>
+		<version>1.1.1</version>
+		<infourl title="Mootools enabler/Disabler"><![CDATA[http://digitaldisseny.com/en/joomla-extensions/disable-mootools-joomla-per-itemid-solve-jquery-conflicts]]></infourl>
+		<downloads>
+			<downloadurl type="full" format="zip"><![CDATA[https://github.com/phproberto/plg_sys_mootable/archive/v1.1.1.zip]]></downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version=".*"/>
+		<element>mootable</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<client>0</client>
+	</update>
+</updates>
